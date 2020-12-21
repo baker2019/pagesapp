@@ -25,7 +25,7 @@ SECRET_KEY = 's430d(%%egdj+(vcoc&vrti$!&&ni51w-uxxv-(c-c1-vz#q+*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
